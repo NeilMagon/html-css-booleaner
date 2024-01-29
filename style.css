@@ -12,7 +12,7 @@ header {
     width: 300px;
 }
 h1{
-    font-size: 80px;
+    font-size: 70px;
     margin-bottom: 0;
 }
 #write{
@@ -24,4 +24,10 @@ h1{
 }
 #boolean{
     color: #20A9E5;
+}
+.info{
+    font-size: 25px;
+}
+.yellow{
+    background-color: yellow;
 }
