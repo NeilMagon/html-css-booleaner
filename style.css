@@ -11,3 +11,17 @@ header {
     padding-top: 120px;
     width: 300px;
 }
+h1{
+    font-size: 80px;
+    margin-bottom: 0;
+}
+#write{
+    color: #808080;
+    font-size: 25px;
+}
+.creator{
+    margin-top: 0;
+}
+#boolean{
+    color: #20A9E5;
+}
