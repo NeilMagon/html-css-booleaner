@@ -31,3 +31,14 @@ h1{
 .yellow{
     background-color: yellow;
 }
+thead{
+    color: white;
+    background-color: #20A9E5;
+}
+.color{
+    background-color: #B1E5F2;
+}
+.table {
+    width: 300px;
+    height: 150px;
+}
