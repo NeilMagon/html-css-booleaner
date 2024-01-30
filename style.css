@@ -25,6 +25,9 @@ h1{
 #boolean{
     color: #20A9E5;
 }
+table{
+    border-spacing: 0;
+}
 .info{
     font-size: 25px;
 }
